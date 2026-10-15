@@ -16,19 +16,19 @@ Created by following Tech With Tim's AI agent tutorial on YouTube.
   python3 -m venv venv
   source venv/bin/activate
 - Step #2: Install dependencies: pip install -r requirements.txt
-- Step #3: Copy '.env.example' to '.env' and add your own Anthropic API key.
+- Step #3: Copy `.env.example` to `.env` and add your own Anthropic API key.
 - Step #4: Run: python main.py
 
 ## Example:
 
 Query: What is the capital of Sweden?
 
-'''
+```
 topic='Capital of Sweden'
 summary="The capital of Sweden is Stockholm. It is also the country's most populous city."
 sources=['Wikipedia: Stockholm (https://en.wikipedia.org/wiki/Stockholm)']
 tools_used=['wikipedia']
-'''
+```
 
 Note: Output can contain mistakes. Verify facts using the sources.
 
