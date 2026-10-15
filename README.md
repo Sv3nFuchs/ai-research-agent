@@ -31,4 +31,4 @@ Python, LangChain, Anthropic Claude API, Pydantic.
 
 ## Credit:
 
-Based on the AI agent tutorial by Tech with Tim.
+Based on the AI agent tutorial by Tech With Tim.
